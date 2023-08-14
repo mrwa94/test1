@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: teal ;
+  height: 100vh;
+}
+
+
+.text-color {
+  color:white;
+
+}
+
+.link-hover:hover{
+   
+  color: brown;
+}
